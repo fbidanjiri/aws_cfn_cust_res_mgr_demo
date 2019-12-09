@@ -15,19 +15,19 @@ stacks:
     template_path: templates/icon.yaml
     variables:
       << : *common_parameters
-      Type: squid
+      Type: trash
   widget3:
     template_path: templates/icon.yaml
     variables:
       << : *common_parameters
-      Type: crown
+      Type: pd
   widget4:
     template_path: templates/icon.yaml
     variables:
       << : *common_parameters
-      Type: trash
+      Type: construction
   widget5:
     template_path: templates/icon.yaml
     variables:
       << : *common_parameters
-      Type: head
+      Type: hammer
